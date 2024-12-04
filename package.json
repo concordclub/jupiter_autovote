@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@solana/buffer-layout": "^4.0.1",
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.91.8",
+    "bs58": "^5.0.0",
+    "colors": "^1.4.0"
+  },
+  "name": "jupiter_autovote_v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "zero cult",
+  "license": "ISC",
+  "description": "zero cult votes on jupiter??"
+}

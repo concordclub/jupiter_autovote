@@ -1,0 +1,31 @@
+{
+    "JUP_DATA": {
+        "locker": {
+            "program_id": "voTpe3tHQ7AjQHMapgSue2HJFAh2cGsdokqN3XqmVSj",
+            "address": "CVMdMd79no569tjc5Sq7kzz8isbfCcFyBS5TLGsrZ5dN"
+        },
+        "token": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN"
+    },
+    "JUP_VOTINGS": {
+        "program_id": "GovaE4iu227srtG2s3tZzB4RmWBzw8sTwrCLZz7kN7rY",
+        "governor": "EZjEbaSd1KrTUKHNGhyHj42PxnoK742aGaNNqb9Rcpgu",
+        "proposals": [
+            "xMLsw7zzBfRXNiQQo42aUohRsibgrmWcPt2mD8HdUUr"
+        ],
+        "vote_threshold": 2
+    },
+    "GAS_PRESETS": {
+        "units": 300000,
+        "lamports": 300000
+    },
+    "USER_DATA": {
+        "main_pk": "",
+        "jup_to_vote": 1,
+        "sol_to_transfer": 0.02,
+        "rpc_url": ""
+    },
+    "delay": {
+        "min": 2000,
+        "max": 5000
+    }
+}
